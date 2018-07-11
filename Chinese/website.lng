@@ -104,8 +104,8 @@ $lang = array (
 // 10.6
 
 // 10.5
-'reply_comments'	=>	"Reply to the comment",
-'reply_comments_1'	=>	"Reply",
+'reply_comments'	=>	"回复评论",
+'reply_comments_1'	=>	"回复",
 'reply_error_1'		=>	"You can not reply to this comment",
 'reply_error_2'		=>	"The comment could not be found",
 'reply_descr'		=>	"Enter your reply to the comment",
