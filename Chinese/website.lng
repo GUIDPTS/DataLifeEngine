@@ -135,54 +135,54 @@ $lang = array (
 'social_err_3'		=>	"无法从社交网络检索用户数据。",
 'social_login_ok'	=>	"您已成功登录。现在您将自动转到该网站。 如果没有发生，请关闭窗口并重新启动网站。",
 'reg_err_36'        =>  "您之前在我们的网站上使用您的电子邮件直接注册或使用其他社交网络注册。 使用您的用户名和密码登录。 如果您忘记了密码，请在网站上进行密码恢复。",
-'reg_err_37'        =>  "You need to enter your e-mail address to login to the website:",
-'reg_err_38'        =>  "This address is used by another user. Please, enter another address.",
-'reg_err_39'        =>  "There was a problem with PHP sessions work on your server. You need to contact your hosting support, to test the functionality of PHP sessions. ",
-'reg_err_40'        =>  "Unable to retrieve your e-mail address from a social network through which you are trying to login. E-mail address is necessary to login to the website. Set its availability in the settings of your social network.",
-'social_next'       =>  "Continue",
-'fav_plus'     	    =>  "Publication was successfully added to your favorites",
-'fav_minus'     	=>  "Publication was successfully removed from your favorites",
+'reg_err_37'        =>  "您需要输入您的电子邮件地址才能登录该网站:",
+'reg_err_38'        =>  "该地址由另一个用户使用。 请输入另一个地址。",
+'reg_err_39'        =>  "PHP会话在您的服务器上运行时出现问题。 您需要联系您的托管支持，以测试PHP会话的功能。 ",
+'reg_err_40'        =>  "无法从您尝试登录的社交网络中检索您的电子邮件地址。 登录网站需要电子邮件地址。 在社交网络的设置中设置其可用性。",
+'social_next'       =>  "继续",
+'fav_plus'     	    =>  "发布已成功添加到您的收藏夹中",
+'fav_minus'     	=>  "已成功从您的收藏夹中删除发布",
 // 10.3
 
 
 // 10.2
-'bb_b_approve'		=>	"Save and publish.",
+'bb_b_approve'		=>	"保存并发布。",
 // 10.2
 
 // 10.1
-'lost_err_2'		=>	"Users that have access to the site control panel, can recover their passwords only in the site control panel. Go to the control panel and there recover your password.",
-'reg_err_35'       	=>  "Sorry, you cannot register on our site. It was noticed that your e-mail address was used to send spam.",
+'lost_err_2'		=>	"有权访问站点控制面板的用户只能在站点控制面板中恢复其密码。 转到控制面板，然后恢复密码。",
+'reg_err_35'       	=>  "对不起，您无法在我们的网站上注册。 注意到您的电子邮件地址用于发送垃圾邮件。",
 // 10.1
 
 // 10.0
-'static_page_err'	=>	"Sorry, the page {page} is not available for you: its address could have changed or it has been removed. Please use the search.",
-'p_del'				=>	"Delete",
-'mail_complaint'	=>  "New complaint notification",
-'mail_complaint_1'	=>  "This notification has been sent from the website: {site}\n\nWe inform you that you have received a new complaint from visitors of your website.\n\nTo view the complaints and to make something on them you have to login to Control Panel of the website and go to 'List of complaints.",
-'reg_err_28'        =>  "Sorry, you cannot register on our website. It was noticed that your e-mail address was used to send spam. If you have never been involved in spam, then your IP-address was previously used by spammers. Ask your internet provider to change your IP-address, and you will be able to register on our website.",
-'reg_err_29'        =>  "Sorry, you cannot post comments. It was noticed that your e-mail address was used to send spam. If you have never been involved in spam, then your IP-address or e-mail was previously used by spammers. Ask your internet provider to change your IP-address, and you will be able to register on our website.",
-'reg_err_34'        =>  "<li> Sorry, you cannot send messages. It was noticed that your e-mail address was used to send spam. If you have never been involved in spam, then your IP-address or e-mail was previously used by spammers. Ask your internet provider to change your IP-address, and you will be able to register on our website.</li>",
+'static_page_err'	=>	"对不起，该页面 {page} 不适用于您：其地址可能已更改或已被删除。 请使用搜索。",
+'p_del'				=>	"删除",
+'mail_complaint'	=>  "新的投诉通知",
+'mail_complaint_1'	=>  "此通知已从网站发送：{site}\n\n我们通知您，您的网站访问者收到了新的投诉。\n\n要查看投诉并对其进行操作，您必须登录网站的控制面板并转到“投诉列表”。",
+'reg_err_28'        =>  "对不起，您无法在我们的网站上注册。 注意到您的电子邮件地址用于发送垃圾邮件。 如果您从未参与垃圾邮件，那么您的IP地址以前是垃圾邮件发送者使用的。 请您的互联网服务提供商更改您的IP地址，您就可以在我们的网站上注册。",
+'reg_err_29'        =>  "对不起，您无法发表评论。 注意到您的电子邮件地址用于发送垃圾邮件。 如果您从未参与垃圾邮件，那么您的IP地址或电子邮件以前是垃圾邮件发送者使用的。 请您的互联网服务提供商更改您的IP地址，您就可以在我们的网站上注册。",
+'reg_err_34'        =>  "<li> 对不起，您无法发送消息。 注意到您的电子邮件地址用于发送垃圾邮件。 如果您从未参与垃圾邮件，那么您的IP地址或电子邮件以前是垃圾邮件发送者使用的。 请您的互联网服务提供商更改您的IP地址，您就可以在我们的网站上注册。</li>",
 // 10.0
 
 // 9.8
-'mark_spam'			=>	"Are you sure you want to mark the user as a spammer? This will remove all his comments",
+'mark_spam'			=>	"您确定要将用户标记为垃圾邮件发送者吗？ 这将删除他的所有评论",
 // 9.8
 
 // 9.7
-'paste_text'		=>	"Paste as plain text",
-'bb_t_yvideo'		=>	"Play video from video services",
-'reg_err_26'        =>  "Administrator of the website has forbidden the registration of multiple accounts on the website using the same IP. Your IP-address is already used on another account.",
-'reg_err_27'        =>  "You are already logged in using this registered account.",
+'paste_text'		=>	"粘贴为纯文本",
+'bb_t_yvideo'		=>	"播放视频服务中的视频",
+'reg_err_26'        =>  "网站管理员禁止使用相同的IP在网站上注册多个帐户。 您的IP地址已在其他帐户中使用。",
+'reg_err_27'        =>  "您已使用此注册帐户登录。",
 // 9.7
 
 // 9.6
-'pm_progress_bar'	=>	"Size of personal message folders is:",
-'no_pm_limit'		=>	"unlimited",
-'pm_set_read'		=>	"Mark as read",
-'pm_set_unread'		=>	"Unmark as read",
-'s_fshort'			=>	"Article annotation:",
-'s_ffull'			=>	"Full article:",
-'bb_t_t'			=>	"Typography",
+'pm_progress_bar'	=>	"个人邮件文件夹的大小是：",
+'no_pm_limit'		=>	"无限",
+'pm_set_read'		=>	"标记为已读",
+'pm_set_unread'		=>	"取消标记为已阅读",
+'s_fshort'			=>	"文章注释：",
+'s_ffull'			=>	"全文：",
+'bb_t_t'			=>	"活版印刷",
 // 9.6
 
 // 9.5
