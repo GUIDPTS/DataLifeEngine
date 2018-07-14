@@ -5,6 +5,8 @@ $lang = array (
 'charset'			=>	"utf-8",
 'wysiwyg_language'	=>  "cn",
 
+//如果您参与了DLE中文翻译项目，请不要删除该注释。请注意！翻译还有些错误，我将会提供一份英文语言提供对照，并且，带有 “//无法翻译，寻求帮助翻译此项，翻译完成请删除该注释。”的注释是我没办法翻译的，如果有翻译完成的请删除无法翻译的注释，谢谢。
+
 // 12.1
 'rules_page'			=>	"网站的规则",
 'xfield_xhtmljs_2'		=>	"出于安全原因，此字段的预览不可用",
@@ -98,9 +100,9 @@ $lang = array (
 'rating_error5'		=>	"您已经对此评论进行了评分",
 'bb_t_sub'			=>	"下标中的文字",
 'bb_t_sup'			=>	"上标中的文字",
-'bb_t_j'			=>	"Alignment by two sides",
+'bb_t_j'			=>	"Alignment by two sides",//无法翻译，寻求帮助翻译此项，翻译完成请删除该注释。
 'bb_t_header'		=>	"文字标题",
-'bb_header'			=>	"Header",
+'bb_header'			=>	"Header",//无法翻译，寻求帮助翻译此项，翻译完成请删除该注释。
 // 10.6
 
 // 10.5
@@ -186,37 +188,37 @@ $lang = array (
 // 9.6
 
 // 9.5
-'news_err_45'		=>	"At the moment, you have exceeded the limit on the number of comments that you are allowed to publish on the site per day. The number of your comments per day is: <b>{max}</b>",
-'images_align'		=>	"Align",
-'images_left'		=>	"Left",
-'images_right'		=>	"Right",
-'images_center'		=>	"Center",
-'images_none'		=>	"No",
-'bb_alt_image'		=>	"Enter image description",
-'bb_t_audio'		=>	"Insert audio track (mp3)",
-'bb_t_color'		=>	"Select color",
-'bb_t_spoiler'		=>	"Insert spoiler",
-'bb_t_flash'		=>	"Insert flash movie",
-'bb_t_youtube'		=>	"Insert media content from other services",
-'bb_t_list1'		=>	"Insert list",
-'bb_t_list2'		=>	"Insert numbered list",
-'s_fword'			=>	"Exact match of all words",
-'addnews_cat_sel'	=>	"Select a category...",
+'news_err_45'		=>	"目前，您已超出每天允许在网站上发布的评论数量限制。 您每天的评论数量是： <b>{max}</b>",
+'images_align'		=>	"对齐",
+'images_left'		=>	"剩下",
+'images_right'		=>	"对",
+'images_center'		=>	"Center",//无法翻译，寻求帮助翻译此项，翻译完成请删除该注释。
+'images_none'		=>	"没有",
+'bb_alt_image'		=>	"输入图像说明",
+'bb_t_audio'		=>	"插入音轨(mp3)",
+'bb_t_color'		=>	"选择颜色",
+'bb_t_spoiler'		=>	"Insert spoiler",//无法翻译，寻求帮助翻译此项，翻译完成请删除该注释。
+'bb_t_flash'		=>	"插入flash动画",
+'bb_t_youtube'		=>	"插入其他服务的媒体内容",
+'bb_t_list1'		=>	"插入列表",
+'bb_t_list2'		=>	"插入编号列表",
+'s_fword'			=>	"所有单词的完全匹配",
+'addnews_cat_sel'	=>	"选择一个类别...",
 // 9.5
 
 // 9.4
-'p_save'			=>	"Save",
-'n_save_ok'			=>	"Changes are saved successfully. Refresh the page?",
-'addnews_xf_alert'	=>	"Required extra fields are empty",
-'editnews_error'	=>	"You do not have the permission to edit this article.",
-'login_metod'		=>	"Login:",
-'login_err_3'		=>	"Attention! Failed to login to the website. Invalid e-mail or password.",
-'xf_notig'			=>	"necessarily",
-'anti_modified'		=>  "does not match the taken snapshot",
-'anti_not'			=>  "unknown for the distribution kit",
-'anti_subj'			=>  "Result of the Antivirus Scan for your website",
-'anti_message_1'	=>  "Scan to detect unauthorized or modified files has been performed according to your cron settings. The following suspicious files were detected based on the scan results:",
-'anti_message_2'	=>  "It is highly recommended to delete unknown files and check the modified ones. If you did not make changes to the modified files of the script, restore the original script files. If this is your changes, then take a snapshot of the files again in the Administration Panel of the script.",
+'p_save'			=>	"保存",
+'n_save_ok'			=>	"更改已成功保存。 刷新页面？",
+'addnews_xf_alert'	=>	"必填的额外字段为空",
+'editnews_error'	=>	"您无权编辑此文章。",
+'login_metod'		=>	"登录：",
+'login_err_3'		=>	"注意！ 无法登录网站。 无效的电子邮件或密码。",
+'xf_notig'			=>	"necessarily",//无法翻译，寻求帮助翻译此项，翻译完成请删除该注释。
+'anti_modified'		=>  "does not match the taken snapshot",//无法翻译，寻求帮助翻译此项，翻译完成请删除该注释。
+'anti_not'			=>  "分发工具包未知",
+'anti_subj'			=>  "您的网站的防病毒扫描结果",
+'anti_message_1'	=>  "已根据您的cron设置执行扫描以检测未经授权或已修改的文件。 根据扫描结果检测到以下可疑文件：",
+'anti_message_2'	=>  "强烈建议删除未知文件并检查修改后的文件。 如果未对脚本的已修改文件进行更改，请还原原始脚本文件。 如果这是您的更改，则在脚本的管理面板中再次获取文件的快照。",
 'big_text'			=>  "Highlighted section of text is too large.",
 'orfo_title'		=>  "Enter a comment to the detected error on the page for Administration ",
 'reg_err_24'        =>  "You have entered the wrong answer to the security question",
